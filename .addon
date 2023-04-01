@@ -1,0 +1,33 @@
+{
+  "Title": "Super Ultimate Chimera Hunt",
+  "Type": "game",
+  "Org": "devbots",
+  "Ident": "such",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": [
+    "*/ui/"
+  ],
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [],
+  "Metadata": {
+    "MaxPlayers": 64,
+    "MinPlayers": 1,
+    "GameNetworkType": "Multiplayer",
+    "MapSelect": "Unrestricted",
+    "MapList": [
+      "facepunch.flatgrass"
+    ],
+    "RankType": "None",
+    "PerMapRanking": false,
+    "LeaderboardType": "None",
+    "ProjectTemplate": null,
+    "CsProjName": "",
+    "Summary": "",
+    "Description": "",
+    "Public": false
+  }
+}
